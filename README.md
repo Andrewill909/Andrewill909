@@ -1,6 +1,14 @@
-### Hi there 👋 It's me Andre William
+### Hi there, I'am Andre William 😎
 
-### 🧰 Tech Stack
+### 🧍 &nbsp;About Me
+
+🎓 &nbsp;I'm currently studying Computer Science at Bina Nusantara University.\
+🌱 &nbsp;I love to explore about web/mobile technologies, performance tips, and best practices.\
+💬 &nbsp;Feel free to reach out to me for sharing, discussing, or even collaborating at projects.\
+✉️ &nbsp;You can send an email to me at andre.williamyuw@gmail.com.\
+📄 &nbsp;Please have a look at my [CV and Portofolio (website)](https://andrewilliam.online) for more details about me. Any feedback and suggestions are appreciated!
+
+### 🧰 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![JavaScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -11,9 +19,6 @@
 ![JavaScript](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-
-
-
 
 ### 📈 &nbsp;Github Analytics
 <p align="center">
