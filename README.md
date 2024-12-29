@@ -2,7 +2,6 @@
 
 ### 🧍 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Computer Science at Bina Nusantara University.\
 🌱 &nbsp;I love to explore about web/mobile technologies, performance tips, and best practices.\
 💬 &nbsp;Feel free to reach out to me for sharing, discussing, or even collaborating at projects.\
 ✉️ &nbsp;You can send an email to me at andre.williamyuw@gmail.com.
