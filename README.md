@@ -1,10 +1,8 @@
-## Hi there, I'm Andre William 👋
+## Hi there 👋
 
-### About
+I'm Andre William, a passionate software engineer and tech enthusiast. I currently work as Fullstack software engineer with over 3 years of experience in the battlefield. With more than 4 years of dedication on exploring many technologies and practices, I've always embraced myself and team to deliver good system design/architecture, efficient development workflow, following best practices, and make sure to keep the standards high 🚀
 
-🌱 &nbsp;I love to explore about web/mobile technologies, performance tuning, and best practices.\
-💬 &nbsp;Feel free to reach out to me for sharing, discussing, or even collaborating at projects.\
-✉️ &nbsp;You can send an email to me at andre.williamyuw@gmail.com.
+Please feel free to reach out to me for sharing, discussing, or even collaborating on exciting projects ✨
 
 ### Tech Stack
 <div>
