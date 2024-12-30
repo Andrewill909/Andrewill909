@@ -17,11 +17,16 @@
 ![JavaScript](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
 
 <p align="center">
-<a href="https://github.com/andreeewill">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreeewill&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreeewill&layout=compact&langs_count=8&theme=nightowl"/>
-</a>
+  <a href="https://github.com/andreeewill">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andreeewill&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andreeewill&layout=compact&langs_count=8&theme=nightowl"/>
+  </a>
 </p>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreeewill&theme=material-palenight&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
+
 
 
 
