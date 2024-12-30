@@ -23,7 +23,9 @@
   </a>
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreeewill&theme=material-palenight&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+<p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreeewill&theme=material-palenight&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+</p>
 
 
 
