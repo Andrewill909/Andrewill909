@@ -1,12 +1,12 @@
-### Hi there, I'm Andre William 👋
+## Hi there, I'm Andre William 👋
 
-### 🧍 &nbsp;About Me
+### About Me
 
-🌱 &nbsp;I love to explore about web/mobile technologies, performance tips, and best practices.\
+🌱 &nbsp;I love to explore about web/mobile technologies, performance tuning, and best practices.\
 💬 &nbsp;Feel free to reach out to me for sharing, discussing, or even collaborating at projects.\
 ✉️ &nbsp;You can send an email to me at andre.williamyuw@gmail.com.
 
-### 🧰 &nbsp;Tech Stack
+### Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![JavaScript](	https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
@@ -24,8 +24,10 @@
 </p>
 
 <p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreeewill&theme=material-palenight&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)](https://git.io/streak-stats)
+  
+  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=andreeewill&theme=material-palenight&date_format=j%20M%5B%20Y%5D&hide_longest_streak=true)
 </p>
+
 
 
 
