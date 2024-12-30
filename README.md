@@ -1,6 +1,6 @@
 ## 👋 Hi there . . .
 
-I'm Andre William, a passionate software engineer and tech enthusiast. I currently work as Fullstack software engineer with over 3 years of experience in the battlefield. With more than 4 years of dedication on exploring many technologies and practices, I've always embraced myself and team to deliver the best system design/architecture, efficient development workflow, robustness + maintainable code, and high security standards 🚀
+I'm Andre William, a passionate software engineer and tech enthusiast. I currently work as Fullstack software engineer with over than 3 years of experience in the industry. With more than 4 years of dedication on exploring many technologies and practices, I've always embraced myself and team to deliver the best system design/architecture, efficient development workflow, robust + maintainable code, and high security standards 🚀
 
 Please feel free to reach out to me for sharing, discussing, or even collaborating on any exciting projects ✨
 
