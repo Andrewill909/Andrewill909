@@ -1,10 +1,10 @@
-## Hi there 👋
+## 👋 Hi there . . .
 
-I'm Andre William, a passionate software engineer and tech enthusiast. I currently work as Fullstack software engineer with over 3 years of experience in the battlefield. With more than 4 years of dedication on exploring many technologies and practices, I've always embraced myself and team to deliver good system design/architecture, efficient development workflow, following best practices, and make sure to keep the standards high 🚀
+I'm Andre William, a passionate software engineer and tech enthusiast. I currently work as Fullstack software engineer with over 3 years of experience in the battlefield. With more than 4 years of dedication on exploring many technologies and practices, I've always embraced myself and team to deliver the best system design/architecture, efficient development workflow, robustness + maintainable code, and high security standards 🚀
 
-Please feel free to reach out to me for sharing, discussing, or even collaborating on exciting projects ✨
+Please feel free to reach out to me for sharing, discussing, or even collaborating on any exciting projects ✨
 
-### Tech Stack
+## Tech Stack
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
